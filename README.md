@@ -1,5 +1,7 @@
 # Macu
 
+![Macu Preview](![Home Page](docs/screenshots/desktop-home.jpg))
+
 Macu is a full-stack web application that manages product imports, customer orders, and delivery notifications for a company that imports goods from Spain and delivers them directly to customers in Cuba.
 
 ---
