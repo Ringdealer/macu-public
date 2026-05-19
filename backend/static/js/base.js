@@ -1,0 +1,1 @@
+console.log("estan quemando basura por culpa de trump y castro")

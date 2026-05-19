@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Git and version control
+.git/
+.gitignore
+
+# Node modules (if any in backend)
+node_modules/
+
+# Logs and local files
+*.log
+*.sqlite3
+*.db
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build/static output (optional, since collectstatic runs inside container)
+staticfiles/
