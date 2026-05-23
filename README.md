@@ -227,7 +227,7 @@ Example endpoints:
 
 ## Demo Video
 
-Demo video coming soon.
+[Watch Demo Video](https://youtu.be/QIrtOXE2SnY)
 
 <!-- Replace with your YouTube link -->
 <!-- https://youtube.com/your-demo-link -->
